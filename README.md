@@ -1,4 +1,4 @@
-This directory contains selected projects from the "Data Science Career Path" from www.codecademy.com.
+This directory contains selected projects from the "Data Science Career Path" of www.codecademy.com.
 
 <a href="12-Visualization-Cumulative-Projects">
 12-Visualization-Cumulative-Projects</br></br>
