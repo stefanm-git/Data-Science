@@ -23,7 +23,7 @@ Classification-Naive-Bayes</br>
 <a href="Linear-Regression">
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="250" align="left"></br>
 Linear-Regression</br>
-<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py">script.py</a></br></br></br></br></br></br></br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py">script.py</a></br></br></br></br></br></br></br></br></br>
 
 
 [Logistic-Regression](Logistic-Regression)</br>
