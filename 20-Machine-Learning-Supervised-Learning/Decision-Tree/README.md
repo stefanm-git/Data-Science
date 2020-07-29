@@ -1,5 +1,6 @@
-Decision-Tree
 Machine Learning: Supervised Learning 🤖
+
+Decision-Tree</br>
 Predicting Income with Random Forests
 
 In this project, we will be using a dataset containing census information from UCI’s Machine Learning Repository.</br>
