@@ -1,3 +1,3 @@
 Capstone Project: Biodiversity in National Parks
 
-Analyze data about endangered species.
+Analyze data about endangered species
