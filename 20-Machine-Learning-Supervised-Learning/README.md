@@ -20,11 +20,16 @@ Data Science Carerr Path - codecademy.com
 
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="150" align="left"></br>
 [Linear-Regression](Linear-Regression)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)</br></br></br></br>
+[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)</br></br></br></br></br></br>
 
 
-[logistic-Regression](Logistic-Regression)</br>
+[Logistic-Regression](Logistic-Regression)</br>
 [script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Logistic-Regression/logistic_regression_project.py)</br></br></br></br>
+
+
+
+[Decision-Tree](Decision-Tree)</br>
+[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Decision-Tree/decision_tree_project.py)</br></br></br></br>
 
 
 
