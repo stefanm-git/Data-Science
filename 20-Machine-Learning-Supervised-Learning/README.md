@@ -5,7 +5,7 @@ Data Science Carerr Path - codecademy.com
 
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="150" align="left"></br>
 [Yelp-Regression-Project](Classification-K-Nearest-Neighbor)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb)</br></br></br>
+[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb)</br></br>
 
 
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="150" align="left"></br>
