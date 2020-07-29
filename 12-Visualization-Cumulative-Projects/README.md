@@ -2,7 +2,7 @@ Data Science Carerr Path - codecademy.com
 
 <p>12. Visualization Cumulative Projects</p></br>
 
-Twitch Project & Kiva Visualization Project</br>
+<a href="Twitch Project">Twitch Project</a> & <a href="Kiva Visualization">Kiva Visualization Project</a</br>
 
 <p float="left">
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Twitch-Project/Visualize_Data_with_Matplotlib.png" alt="alt text" width="40%">
