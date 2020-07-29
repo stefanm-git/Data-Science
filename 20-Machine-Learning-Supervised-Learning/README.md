@@ -11,13 +11,13 @@ Yelp-Regression-Project</a></br>
 <a href="Classification-K-Nearest-Neighbor">
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="150" align="left"></br>
 Classification-K-Nearest-Neighbor</br>
-<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py">script.py</a></br></br></br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py">script.py</a></br></br></br></br>
 
 
 <a href="Classification-Naive-Bayes">
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.png" alt="img" width="150" align="left"></br>
 Classification-Naive-Bayes</br>
-<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.py">script.py</a></br></br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.py">script.py</a></br>
 
 
 <a href="Linear-Regression">
