@@ -23,10 +23,6 @@ Data Science Carerr Path - codecademy.com
 [script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)</br></br></br></br>
 
 
-[Logistic-Regression](Logistic-Regression)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)
-
-
 
 
 
