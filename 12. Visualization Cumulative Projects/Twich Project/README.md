@@ -4,7 +4,6 @@ In this project, we have partnered with Twitch’s Science Team and you will be 
 
 1. Analyze Data with SQL
 2. Visualize Data with Matplotlib
-
 ![alt text](Visualize_Data_with_Matplotlib.png)
 
 www.codecademy.com
