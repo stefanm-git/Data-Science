@@ -9,7 +9,7 @@ Yelp-Regression-Project</a></br>
 
 
 <a href="Classification-K-Nearest-Neighbor">
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="450" align="left"></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="350" align="left"></br>
 Classification-K-Nearest-Neighbor</br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py">script.py</a></br></br></br></br>
 
