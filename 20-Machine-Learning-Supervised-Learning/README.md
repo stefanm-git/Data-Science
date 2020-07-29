@@ -9,21 +9,21 @@ Yelp-Regression-Project</a></br>
 
 
 <a href="Classification-K-Nearest-Neighbor">
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="150" align="left"></a></br>
-[Classification-K-Nearest-Neighbor](Classification-K-Nearest-Neighbor)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py)</br></br></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="150" align="left"></br>
+Classification-K-Nearest-Neighbor</br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py">script.py</a></br></br></br>
 
 
 <a href="Classification-Naive-Bayes">
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.png" alt="img" width="150" align="left"></a></br>
-[Classification-Naive-Bayes](Classification-Naive-Bayes)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.py)</br></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.png" alt="img" width="150" align="left"></br>
+Classification-Naive-Bayes</br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.py">script.py</a></br></br>
 
 
 <a href="Linear-Regression">
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="150" align="left"></a></br>
-[Linear-Regression](Linear-Regression)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)</br></br></br></br></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="150" align="left"></br>
+Linear-Regression</br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py">script.py</a></br></br></br></br></br>
 
 
 [Logistic-Regression](Logistic-Regression)</br>
