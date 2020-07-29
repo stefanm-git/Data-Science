@@ -9,7 +9,7 @@ Data Science Carerr Path - codecademy.com
 [script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py)
 </a>
 
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="80%">
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" width="20%">
 
 </p>
 
