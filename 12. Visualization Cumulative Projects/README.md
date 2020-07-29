@@ -4,7 +4,7 @@ Data Science Carerr Path codecademy.com
 
 Twich Project
 
-![alt text](Twitch Project/Visualize_Data_with_Matplotlib.png)
+![alt text](/Twitch Project/Visualize_Data_with_Matplotlib.png)
 
 Kiva Visualization Project
 
