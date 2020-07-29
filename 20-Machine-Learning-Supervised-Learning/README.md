@@ -2,7 +2,7 @@ Data Science Carerr Path - codecademy.com
 
 20. Machine Learning: Supervised Learning 🤖 </br></br>
 
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" style="width: 100px" align="left"></div></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.png" alt="img" style="width:100" align="left"></div></br>
 [Classification-K-Nearest-Neighbor](Classification-K-Nearest-Neighbor)</br>
 [script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py)</br></br></br></br></br>
 
