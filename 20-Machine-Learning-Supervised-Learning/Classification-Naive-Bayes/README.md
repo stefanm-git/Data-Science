@@ -4,7 +4,9 @@ Bayes’ Theorem allows us to incorporate prior knowledge of conditions related 
 Machine Learning: Supervised Learning 🤖
 Email Similarity
 
-In this project, you will use scikit-learn’s Naive Bayes implementation on several different datasets. By reporting the accuracy of the classifier, we can find which datasets are harder to distinguish.
+In this project, you will use scikit-learn’s Naive Bayes implementation on several different datasets. By reporting the accuracy of the classifier, we can find which datasets are harder to distinguish.</br>
+<img src="naive_bayes_project.png" alt="img" width="80%">
+
 
 
 www.codecademy.com
