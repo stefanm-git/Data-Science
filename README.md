@@ -1,8 +1,8 @@
 This directory contains selected projects from the "Data Science Career Path" from www.codecademy.com.
 
 <a href="12-Visualization-Cumulative-Projects">
-12-Visualization-Cumulative-Projects</a></br></br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Kiva-Visualization-Project/Visualizing_Kiva_Data_with_Seaborn.png" alt="img" width="280px" align="left"></br></br></br></br></br></br></br></br></br>
+12-Visualization-Cumulative-Projects</br></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Kiva-Visualization-Project/Visualizing_Kiva_Data_with_Seaborn.png" alt="img" width="280px" align="left"></a></br></br></br></br></br></br></br></br></br>
          
 <a href="18-Data-Analysis-Capstone-Project">
 18-Data-Analysis-Capstone-Project</a>
