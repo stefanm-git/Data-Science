@@ -4,7 +4,7 @@ Data Science Carerr Path - codecademy.com
 
 
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="150" align="left"></br>
-[Yelp-Regression-Project](Classification-K-Nearest-Neighbor)</br>
+[Yelp-Regression-Project](Yelp-Regression-Project)</br>
 [script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb)</br></br>
 
 
@@ -19,9 +19,12 @@ Data Science Carerr Path - codecademy.com
 
 
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="150" align="left"></br>
-[Linear-Regression](Classification-Naive-Bayes)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)
+[Linear-Regression](Linear-Regression)</br>
+[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)</br></br>
 
+
+[Logistic-Regression](Logistic-Regression)</br>
+[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.py)
 
 
 
