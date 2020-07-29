@@ -3,7 +3,7 @@ Data Science Carerr Path - codecademy.com
 20. Machine Learning: Supervised Learning 🤖 </br></br>
 
 <a href="Yelp-Regression-Project">
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="400px" align="left"></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="500px" align="left"></br>
 Yelp-Regression-Project</a></br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb">script.py</br></br></br></br></br></br>
 
