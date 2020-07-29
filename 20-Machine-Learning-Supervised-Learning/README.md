@@ -11,6 +11,6 @@ Classification-K-Nearest-Neighbor(Classification-K-Nearest-Neighbor)</br>
 script.py(https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-K-Nearest-Neighbor/classification_project.py)
 
 
-| I am text to the left  | ![Flowers](/classification_project.png) |
+| I am text to the left  | ![Flowers](classification_project.png) |
 
 <img src="classification_projectt.png" alt="alt text" width="100%">
