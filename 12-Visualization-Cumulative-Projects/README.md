@@ -1,6 +1,6 @@
 Data Science Carerr Path - codecademy.com 
 
-12. Visualization Cumulative Projects<br />
+12. Visualization Cumulative Projects</br>
 Twitch Project & Kiva Visualization Project
 
 <p float="left">
