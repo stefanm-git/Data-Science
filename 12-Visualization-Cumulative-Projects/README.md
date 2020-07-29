@@ -8,6 +8,6 @@ Twich Project
 
 Kiva Visualization Project
 
-![img](/Kiva-Visulaization-Project\Visualizing_Kiva_Data_with_Seaborn.png)
+![img](https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Kiva-Visualization-Project/Visualizing_Kiva_Data_with_Seaborn.png)
 
 www.codecademy.com
