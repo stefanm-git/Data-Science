@@ -1,4 +1,4 @@
-<p>21. Supervised Machine Learning Cumulative Project</br>
+<p>22. Machine Learning: Unsupervised Learning 🤖</br>
 Handwriting Recognition using K-Means</p>
 In this project, you will be using K-means clustering (the algorithm behind this magic) and scikit-learn to cluster images of handwritten digits.
 
