@@ -13,6 +13,6 @@ This directory contains selected projects from the "Data Science Career Path" of
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="300px" align="left"></a></br></br></br></br></br></br></br></br>
 
 
-<a href="20-Machine-Learning-Supervised-Learning">
-20-Machine-Learning-Supervised-Learning</br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="300px" align="left"></a></br></br></br></br></br></br></br></br>
+<a href="21-Supervised-Learning-Cumulative-Project">
+21-Supervised-Learning-Cumulative-Project</br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/21-Supervised-Learning-Cumulative-Project/classifying_tweets_viral.png" alt="img" width="300px" align="left"></a></br></br></br></br></br></br></br></br>
