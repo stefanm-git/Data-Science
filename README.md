@@ -17,3 +17,9 @@ This directory contains selected projects from the "Data Science Career Path" of
 21-Supervised-Learning-Cumulative-Project</br>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/21-Supervised-Learning-Cumulative-Project/classifying_tweets_location.png" alt="img" width="200px" align="left">
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/21-Supervised-Learning-Cumulative-Project/classifying_tweets_viral.png" alt="img" width="300px" align="left"></a></br></br></br></br></br></br></br></br>
+
+
+<a href="22-Machine-Learning-Unsupervised-Learning">
+22-Machine-Learning-Unsupervised-Learning</br></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/22-Machine-Learning-Unsupervised-Learning/handwritten_recognition_kmeans.png" alt="img" width="180px" align="left">
+</a></br></br></br></br></br></br></br></br>
