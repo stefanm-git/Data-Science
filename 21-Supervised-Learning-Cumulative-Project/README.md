@@ -8,8 +8,8 @@ scipt.ipynb</br>
 **Classifying Tweets Viral - K-Nearest Neighbor**</br>
 <a href="classifying_tweets_viral.ipynb">
 scipt.ipynb</br>
-<img src="classifying_tweets_viral.png" alt="img" width="500px" align="left"></br>
-<img src="classifying_tweets_viral_1.png" alt="img" width="500px" align="left"></a></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<img src="classifying_tweets_viral.png" alt="img" width="500px" align="left"></br></br></br>
+<img src="classifying_tweets_viral_1.png" alt="img" width="230px" align="left"></a></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
 
