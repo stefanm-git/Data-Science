@@ -4,6 +4,15 @@ This directory contains selected projects from the "Data Science Career Path" of
 <a href="12-Visualization-Cumulative-Projects">
 12-Visualization-Cumulative-Projects</br></br>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Kiva-Visualization-Project/Visualizing_Kiva_Data_with_Seaborn.png" alt="img" width="280px" ></a></br></br>
+
+<a href="13-Data-Visualization-Capstone-Projects">
+13-Data-Visualization-Capstone-Projects</br></br>
+<img src="13-Data-Visualization-Capstone-Projects/Life-Expectancy-and-GDP-Capstone/img/overview_plot.png" alt="img" width="240px">
+<img src="13-Data-Visualization-Capstone-Projects/Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="240px"></a></br></br>
+
+<a href="14-Learn-Statistics-with-Python">
+14-Learn-Statistics-with-Python</br>
+<img src="14-Learn-Statistics-with-Python/img/boxplots.png" alt="img" width="550px"></a></br></br>
          
 <a href="18-Data-Analysis-Capstone-Project">
 18-Data-Analysis-Capstone-Project</br>
