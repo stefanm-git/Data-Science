@@ -14,6 +14,6 @@ Life-Expectancy-and-GDP-Capstone</br>
 Netflix-Stock-Visualizations</br>
 <img src="Netflix-Stock-Visualizations/netflix_visualizations_project.png" alt="img" width="400px" "></a></br></br>
 
-</br></br></br>
+
 www.codecademy.com
 
