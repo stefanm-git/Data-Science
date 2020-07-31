@@ -5,8 +5,7 @@
 
 
 <div style="float:left">
-  <p style="font-weight: bold">Quartiles, Quantiles, and Interquartile Range**</p>
-</br>
+  <b>Quartiles, Quantiles, and Interquartile Range</b>
 <a href="quartiles_quantile_interquantile_range_project.py">
 Life Expectancy By Country</br>
 script.py
