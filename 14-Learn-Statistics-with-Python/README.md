@@ -12,6 +12,17 @@ script.py</br>
 <img src="quartiles_quantile_interquantile_range_project.png" alt="img" width="400px"></a></br></br>
 
 
+<b>Boxplots</b></br>
+<a href="boxplots.py">
+Healthcare in Different States</br>
+script.py</br>
+<img src="boxplots.png" alt="img" width="400px"></a></br></br>
+
+
+
+
+
+
 www.codecademy.com
 
 
