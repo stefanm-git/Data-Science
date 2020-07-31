@@ -11,8 +11,8 @@ Life-Expectancy-and-GDP-Capstone</br>
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="400px" "></a></br></br>
 
 <a href="Netflix-Stock-Visualizations">
-Life-Expectancy-and-GDP-Capstone</br>
-<img src=Netflix-Stock-Visualizations/netflix_visualizations_project.png" alt="img" width="400px" "></a></br></br>
+Netflix-Stock-Visualizations</br>
+<img src="Netflix-Stock-Visualizations/netflix_visualizations_project.png" alt="img" width="400px" "></a></br></br>
 
 </br></br></br></br></br></br></br></br></br></br>
 www.codecademy.com
