@@ -4,7 +4,7 @@
 Data Visualization Capstone Project</p>
 
 <div style="float:left">
-<a href="Life-Expectancy-and-GDP-Capstone/global_data_capstone_project.ipynb">
+<a href="Life-Expectancy-and-GDP-Capstone">
 Life-Expectancy-and-GDP-Capstone</br>
 <img src="Life-Expectancy-and-GDP-Capstone/img/overview_plot.png" alt="img" width="400px">
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="400px" "></a></br></br>
