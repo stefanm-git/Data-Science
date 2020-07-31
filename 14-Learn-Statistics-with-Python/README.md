@@ -11,14 +11,29 @@ Life Expectancy By Country</br>
 script.py</br>
 <img src="quartiles_quantile_interquantile_range_project.png" alt="img" width="400px"></a></br></br>
 
-
 <b>Boxplots</b></br>
 <a href="boxplots.py">
 Healthcare in Different States</br>
 script.py</br>
-<img src="boxplots.png" alt="img" width="400px"></a></br></br>
+<img src="boxplots.png" alt="img" width="800px"></a></br></br>
 
+<b>Histrograms</b></br>
+<a href="historgrams_project.py">
+Travel to Acadia</br>
+script.py</br>
+<img src="historgrams_project.png" alt="img" width="800px"></a></br></br>
 
+<b>Variance and Standard Deviation</b></br>
+<a href="variance_and_standard_deviation_project.py">
+Variance in Weather</br>
+script.py</br>
+</a></br></br>
+
+<b>Mean, Meadian, and Mode</b></br>
+<a href="mean_median_mode_project.py">
+Central Tendency for Housing Data</br>
+script.py</br>
+</a></br></br>
 
 
 
