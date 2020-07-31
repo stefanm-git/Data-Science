@@ -7,7 +7,7 @@ Capstone Project: Netflix Data</p>
 <a href="netflix_visualizations_project.ipynb">
 Netflix-Stock-Visualizations</br>
 script.ipynb </a></br></br>
-<img src="netflix_visualizations_project.png" alt="img" width="400px" "></br></br>
+<img src="netflix_visualizations_project.png" alt="img" width="800px" "></br></br>
 
-</br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br>
 www.codecademy.com
