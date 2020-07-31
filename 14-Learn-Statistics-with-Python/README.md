@@ -8,7 +8,7 @@
   <b>Quartiles, Quantiles, and Interquartile Range</b></br>
 <a href="quartiles_quantile_interquantile_range_project.py">
 Life Expectancy By Country</br>
-script.py
+script.py</br>
 <img src="quartiles_quantile_interquantile_range_project.png" alt="img" width="400px"></a></br></br>
 
 
