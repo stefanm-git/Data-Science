@@ -21,7 +21,7 @@ script.py</br>
 <a href="historgrams_project.py">
 Travel to Acadia</br>
 script.py</br>
-<img src="historgrams_project.png" alt="img" width="800px"></a></br></br>
+<img src="historgrams_project.png" alt="img" width="500px"></a></br></br>
 
 <b>Variance and Standard Deviation</b></br>
 <a href="variance_and_standard_deviation_project.py">
