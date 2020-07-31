@@ -4,6 +4,10 @@ Capstone Project: Netflix Data</p>
 
 <div style="float:left">
   
-<a href="Netflix-Stock-Visualizations">
+<a href="netflix_visualizations_project.ipynb">
 Netflix-Stock-Visualizations</br>
-<img src="Netflix-Stock-Visualizations/netflix_visualizations_project.png" alt="img" width="400px" "></a></br></br>
+script.ipynb </a></br></br>
+<img src="netflix_visualizations_project.png" alt="img" width="400px" "></br></br>
+
+</br></br></br></br></br></br></br></br></br></br>
+www.codecademy.com
