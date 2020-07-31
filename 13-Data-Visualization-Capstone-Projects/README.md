@@ -4,8 +4,9 @@
 Capstone Project: Life Expectancy and GDP Data</p>
 
 <div style="float:left">
-<a href="Life-Expectancy-and-GDP-Capstone">
+<a href="global_data_capstone_project.ipynb">
 Life-Expectancy-and-GDP-Capstone</br>
+ script.ipynb
 <img src="Life-Expectancy-and-GDP-Capstone/img/overview_plot.png" alt="img" width="400px">
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="400px" "></a></br></br>
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP.png" alt="img" width="400px" align="left"></a>
