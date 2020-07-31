@@ -31,7 +31,7 @@ This directory contains selected projects from the "Data Science Career Path" of
 
 <a href="22-Machine-Learning-Unsupervised-Learning">
 22-Machine-Learning-Unsupervised-Learning</br></br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/22-Machine-Learning-Unsupervised-Learning/handwritten_recognition_kmeans.png" alt="img" width="180px" >
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/22-Machine-Learning-Unsupervised-Learning/handwritten_recognition_kmeans.png" alt="img" width="150px" >
 </a></br></br>
 
 </div>
