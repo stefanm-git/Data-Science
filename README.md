@@ -21,7 +21,7 @@ This directory contains selected projects from the "Data Science Career Path" of
 <a href="20-Machine-Learning-Supervised-Learning">
 20-Machine-Learning-Supervised-Learning</br>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="350px">
-<img src="20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="350px"></a></br></br>
+<img src="20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="150px"></a></br></br>
 
 
 <a href="21-Supervised-Learning-Cumulative-Project">
