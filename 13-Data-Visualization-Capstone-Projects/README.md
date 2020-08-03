@@ -12,7 +12,9 @@ Life-Expectancy-and-GDP-Capstone</br></a>
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="400px" "></a></br></br>
 
 <a href="Netflix-Stock-Visualizations">
-Netflix-Stock-Visualizations</br>
+Netflix-Stock-Visualizations</br></a>
+<li>visualizations for a Stock Profile</li>
+<li>Analyze, Prepare, and Plot Data</li>
 <img src="Netflix-Stock-Visualizations/netflix_visualizations_project.png" alt="img" width="400px" "></a></br></br>
 
 
