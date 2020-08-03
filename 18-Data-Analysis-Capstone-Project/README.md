@@ -5,7 +5,7 @@ Biodiversity in National Parks</br>
 <a href="biodiversity_project.py">
 Analyze data about endangered species</br>
 script.py</a> </br>
-<img src="img/biodiversity_project.png" alt="alt text" width="80%">
+<img src="img/biodiversity_project.png" alt="alt text" width="80%"></br>
   
 
 MuscleHub A/B Test</br>
