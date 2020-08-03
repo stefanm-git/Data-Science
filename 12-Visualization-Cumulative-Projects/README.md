@@ -1,7 +1,4 @@
-<p style="font-size: 20pt">
- 12-Visualization-Cumulative-Projects</p>
-</br>
-
+**12-Visualization-Cumulative-Projects**
 <div style="float:left">
 <a href="Visualize_Data_with_Matplotlib">
 Twitch Project</br>
