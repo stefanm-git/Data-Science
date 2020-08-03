@@ -8,7 +8,7 @@
 <a href="muscle_hub_abtest.py">
 Help MuscleHub analyze an A/B test and choose a business strategy </br>
 script.py</a></br></br>
-<img src="img/muscle_hub_abtest.png" alt="alt text" width="100%">
+<img src="img/muscle_hub_abtest.png" alt="alt text" width="100%"></br></br>
 
 
 <b>Biodiversity in National Parks</b></br>
