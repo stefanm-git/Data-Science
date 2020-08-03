@@ -1,7 +1,6 @@
+<sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-
-<p>14-Learn-Statistics-with-Python</br>
-</p>
+<b>14-Learn-Statistics-with-Python</b>
 
 
 <div style="float:left">
