@@ -16,7 +16,7 @@ script.py</br></a>
 <b>Boxplots</b></br>
 <a href="boxplots.py">
 Healthcare in Different States</br>
-script.py</a></br>
+script.py</br></a>
 <li>Investigation of Hospital Charges for medical procedures across the United States</li>
 <li>Visulization with Boxplots</li>
 <img src="img/boxplots.png" alt="img" width="800px"></a></br></br>
