@@ -1,7 +1,6 @@
 
-
+**Life Expectancy and GDP Data**
 <div style="float:left">
-**Capstone Project: Life Expectancy and GDP Data**
 <a href="global_data_capstone_project.ipynb">
 script.ipynb </a></br></br>
 <li>Investigation of correlation between the economic output of a country and the life expectancy of its citizens. </li>
