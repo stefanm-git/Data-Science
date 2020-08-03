@@ -1,8 +1,12 @@
-Data Science Carerr Path - codecademy.com
+<sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-20. Machine Learning: Supervised Learning 🤖 </br></br>
+<b>20-Machine-Learning-Supervised-Learning</b></br></br>
 
 <a href="Yelp-Regression-Project">
+Yelp-Regression-Project</a></br>
+<li>Multiple Linear Regression model</li>
+<li>Investigation what factors most affect a restaurant's Yelp rating and predict the Yelp rating for your restaurant!</li>
+<li>Prediction of Yelp rating</li>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="250px" align="left"></br>
 Yelp-Regression-Project</a></br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb">script.ipynb</br></br></br></br>
