@@ -16,7 +16,7 @@ This directory contains selected projects from the "Data Science Career Path" of
 
 <a href="16-Hypothesis-Testing-with-SciPy">
 16-Hypothesis-Testing-with-SciPy</br>
-</br></br>
+</br>
          
 <a href="14-Learn-Statistics-with-Python">
 14-Learn-Statistics-with-Python</br>
