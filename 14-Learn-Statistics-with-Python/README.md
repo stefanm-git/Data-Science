@@ -16,7 +16,7 @@ script.py</br></a>
 <b>Boxplots</b></br>
 <a href="boxplots.py">
 Healthcare in Different States</br>
-script.py</br></a>
+script.py</a>
 <li>Investigation of Hospital Charges for medical procedures across the United States</li>
 <li>Visulization with Boxplots</li>
 <img src="img/boxplots.png" alt="img" width="800px"></br></br>
@@ -24,8 +24,10 @@ script.py</br></a>
 <b>Histrograms</b></br>
 <a href="historgrams_project.py">
 Travel to Acadia</br>
-script.py</br>
-<img src="img/historgrams_project.png" alt="img" width="500px"></a></br></br>
+script.py</a>
+<li>Recommendation for the best time in a year for someone to make a trip </li>
+<li>Visulization with Histogram</li>
+<img src="img/historgrams_project.png" alt="img" width="500px"></br></br>
 
 <b>Variance and Standard Deviation</b></br>
 <a href="variance_and_standard_deviation_project.py">
