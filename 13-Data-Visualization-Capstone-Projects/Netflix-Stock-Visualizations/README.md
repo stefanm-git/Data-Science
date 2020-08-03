@@ -1,10 +1,9 @@
 <sub><a href="13-Data-Visualization-Capstone-Projects">13-Data-Visualization-Capstone-Projects</a></sub>
 
-**Netflix Data**
+**Netflix-Stock-Visualizations**
 
 <div style="float:left">
 <a href="netflix_visualizations_project.ipynb">
-Netflix-Stock-Visualizations</br>
 script.ipynb </a></br></br>
 <li>Visualizations for a Stock Profile</li>
 <li>Analyze, Prepare, and Plot Data</li></br>
