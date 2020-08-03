@@ -12,7 +12,7 @@ script.py</a>
 <li>Visitors will randomly be assigned to one of two groups, Group A will still be asked to take a fitness test with a personal trainer,
     Group B will skip the fitness test and proceed directly to the application
 </li></br>
-<img src="img/muscle_hub_abtest.png" alt="alt text" width="100%"></br></br></br>
+<img src="img/muscle_hub_abtest.png" alt="alt text" width="100%"></br></br></br></br>
 
 
 <b>Biodiversity in National Parks</b></br>
