@@ -1,6 +1,6 @@
 12. Visualization Cumulative Projects</br>
 
-<div="float:left">
+<div style="float:left">
 <a href="Twitch-Project">
 Twitch Project</br>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Twitch-Project/Visualize_Data_with_Matplotlib.png" alt="img" width="30%" ></a></br>
