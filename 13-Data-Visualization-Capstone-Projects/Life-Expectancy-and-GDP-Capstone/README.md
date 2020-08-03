@@ -2,7 +2,7 @@
 **Life Expectancy and GDP Data**
 <div style="float:left">
 <a href="global_data_capstone_project.ipynb">
-script.ipynb </a></br></br>
+script.ipynb </a></br>
 <li>Investigation of correlation between the economic output of a country and the life expectancy of its citizens. </li>
 <li>Analyze, Prepare, and Plot Data</li>
 <img src="img/overview_plot.png" alt="img" width="800px"></br></br>
