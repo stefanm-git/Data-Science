@@ -1,6 +1,6 @@
 <sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-<b>Data Analysis Capstone Projects</b>
+<b>Data Analysis Capstone Projects</b></br>
 
 <div style="float:left">
 Biodiversity in National Parks</br>
