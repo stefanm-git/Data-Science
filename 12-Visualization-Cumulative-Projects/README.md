@@ -4,11 +4,11 @@
 <a href="Visualize_Data_with_Matplotlib">
 Twitch Project</br>
 script.py</a>
-<div style="font-size: 20px">
+<p style="font-size: 20px">
 In this project, we have partnered with Twitch’s Science Team and you will be working with two training tables that contain Twitch users’ stream viewing data and chat room usage data. The project is broken down into two parts: Analyze Data with SQL and Visualize Data with Matplotlib.</br>
 <li>Analyze Data with SQL</li>
 <li>Visualize Data with Matplotlib</li></br>
-</div>
+</p>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Twitch-Project/Visualize_Data_with_Matplotlib.png" alt="img" width="30%" ></a></br>
  
 <a href="Kiva-Visualization-Project">
