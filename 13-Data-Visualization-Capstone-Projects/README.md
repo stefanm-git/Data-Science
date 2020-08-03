@@ -1,7 +1,6 @@
 
 
-<p>13-Data-Visualization-Capstone-Projects</br>
-Data Visualization Capstone Project</p>
+**13-Data-Visualization-Capstone-Projects**</br>
 
 
 <div style="float:left">
