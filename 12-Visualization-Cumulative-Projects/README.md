@@ -1,6 +1,6 @@
 **12-Visualization-Cumulative-Projects**
 <div style="float:left">
-<a href="Visualize_Data_with_Matplotlib">
+<a href="Visualize_Data_with_Matplotlib.py">
 Twitch Project</br>
 script.py</a>
 <li>Analyze Data with SQL</li>
