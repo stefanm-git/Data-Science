@@ -15,7 +15,7 @@ System that predicts whether or not a tweet will go viral by using a K-Nearest N
 <a href="classifying_tweets_viral.ipynb">
 scipt.ipynb</a>
 System that predicts whether a tweet was sent from New York City, London, or Paris
-<img src="img/classifying_tweets_viral.png" alt="img" width="500px"></br></br></br>
+<img src="img/classifying_tweets_viral.png" alt="img" width="500px"></br>
 <img src="img/classifying_tweets_viral_1.png" alt="img" width="400px" ></br></br></
 
 </div>
