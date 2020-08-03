@@ -16,23 +16,23 @@ This directory contains selected projects from the "Data Science Career Path" of
          
 <a href="18-Data-Analysis-Capstone-Project">
 18-Data-Analysis-Capstone-Project</br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/18-Data-Analysis-Capstone-Project/biodiversity_project.png" alt="img" width="280px" ></a></br></br>
+<img src="18-Data-Analysis-Capstone-Project/img/biodiversity_project.png" alt="img" width="280px" ></a></br></br>
 
 <a href="20-Machine-Learning-Supervised-Learning">
 20-Machine-Learning-Supervised-Learning</br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="350px">
-<img src="20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.png" alt="img" width="350px"></a></br></br>
+<img src="20-Machine-Learning-Supervised-Learning/img/yelp_regression_project.png" alt="img" width="350px">
+<img src="20-Machine-Learning-Supervised-Learning/img/naive_bayes_project.png" alt="img" width="350px"></a></br></br>
 
 
 <a href="21-Supervised-Learning-Cumulative-Project">
 21-Supervised-Learning-Cumulative-Project</br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/21-Supervised-Learning-Cumulative-Project/classifying_tweets_location.png" alt="img" width="200px" align="left">
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/21-Supervised-Learning-Cumulative-Project/classifying_tweets_viral.png" alt="img" width="300px" ></a></br></br>
+<img src="21-Supervised-Learning-Cumulative-Project/img/classifying_tweets_location.png" alt="img" width="200px" align="left">
+<img src="21-Supervised-Learning-Cumulative-Project/img/classifying_tweets_viral.png" alt="img" width="300px" ></a></br></br>
 
 
 <a href="22-Machine-Learning-Unsupervised-Learning">
 22-Machine-Learning-Unsupervised-Learning</br></br>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/22-Machine-Learning-Unsupervised-Learning/handwritten_recognition_kmeans.png" alt="img" width="150px" >
+<img src="22-Machine-Learning-Unsupervised-Learning/img/handwritten_recognition_kmeans.png" alt="img" width="150px" >
 </a></br></br>
 
 </div>
