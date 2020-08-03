@@ -8,9 +8,8 @@ Yelp-Regression-Project</a></br>
 <li>Multiple Linear Regression model</li>
 <li>Investigation what factors most affect a restaurant's Yelp rating and predict the Yelp rating for your restaurant!</li>
 <li>Prediction of Yelp rating</li>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="250px" align="left"></br>
-Yelp-Regression-Project</a></br>
-<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb">script.ipynb</br></br></br></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.png" alt="img" width="350px" align="left"></br>
+
 
 
 <a href="Classification-K-Nearest-Neighbor">
