@@ -18,6 +18,9 @@ script.py</a>
 <b>Biodiversity in National Parks</b></br>
 <a href="biodiversity_project.py">
 Analyze data about endangered species</br>
-script.py</a> </br>
+script.py</a> 
+<li>Analyze data on endangered species from several different parks</li>
+<li>Analyze, Clean Up, and Plot Data
+</li></br>
 <img src="img/biodiversity_project.png" alt="alt text" width="80%"></br></br></br>
   
