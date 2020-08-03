@@ -2,6 +2,7 @@
 
 <b>20-Machine-Learning-Supervised-Learning</b></br></br>
 
+<div style="float: left">
 <a href="Yelp-Regression-Project">
 Yelp-Regression-Project</a></br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb">script.ipynb</a></br>
@@ -37,6 +38,9 @@ Linear-Regression</br>
 
 [Decision-Tree](Decision-Tree)</br>
 [script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Decision-Tree/decision_tree_project.py)</br></br></br></br>
+
+
+</div>
 
 
 
