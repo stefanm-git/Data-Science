@@ -1,9 +1,9 @@
 <sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-<b>Hypothesis-Testing-with-SciPy</b></br>
+<b>Hypothesis-Testing-with-SciPy</b></br></br>
 
 <div style="float:left">
-<b>Hypothesis Testing</b>
+<b>Hypothesis Testing</b></br>
 <a href="study_in_data_analysis.py">
 Familiar: A Study In Data Analysis</br>
 script.py</a></br>
