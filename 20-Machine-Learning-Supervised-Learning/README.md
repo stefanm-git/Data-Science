@@ -3,8 +3,9 @@
 <b>20-Machine-Learning-Supervised-Learning</b></br></br>
 
 <div style="float: left">
-<a href="Yelp-Regression-Project">
-Yelp-Regression-Project</a></br>
+<b>
+Yelp-Regression-Project</b></br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb">script.ipynb</a></br>
 <li>Multiple Linear Regression model</li>
 <li>Investigation what factors most affect a restaurant's Yelp rating and predict the Yelp rating for your restaurant!</li>
 <li>Prediction of Yelp rating</li>
