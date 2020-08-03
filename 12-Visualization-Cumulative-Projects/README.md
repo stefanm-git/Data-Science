@@ -8,7 +8,7 @@ In this project, we have partnered with Twitch’s Science Team and you will be 
 <li>Analyze Data with SQL</li>
 <li>Visualize Data with Matplotlib</li></br>
 </p>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Twitch-Project/Visualize_Data_with_Matplotlib.png" alt="img" width="30%" ></a></br>
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/12-Visualization-Cumulative-Projects/Twitch-Project/Visualize_Data_with_Matplotlib.png" alt="img" width="40%" ></a></br>
  
 <a href="Kiva-Visualization-Project">
 Kiva Visualization Project</br>
