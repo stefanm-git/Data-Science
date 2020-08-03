@@ -1,6 +1,6 @@
 <sub><a href="https://github.com/stefanm-git/Data-Science/tree/master/20-Machine-Learning-Supervised-Learning">20-Machine-Learning-Supervised-Learning</a></sub>
 
-**Yelp Rating Predictor Cumulative Project**
+**Yelp Rating Predictor Cumulative Project**</br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Yelp-Regression-Project/yelp_regression_project.ipynb">script.ipynb</a></br>
 
 This is the cumulative project for Linear Regression.
