@@ -8,7 +8,7 @@
 <b>Quartiles, Quantiles, and Interquartile Range</b></br>
 <a href="quartiles_quantile_interquantile_range_project.py">
 Life Expectancy By Country</br>
-script.py</br></a>
+script.py</br></br></a>
 <li>Investigation of data containing information about the average life expectancy in 158 different countries</li>
 <li>Impact of country’s economic success on the life expectancy</li>
 <img src="img/quartiles_quantile_interquantile_range_project.png" alt="img" width="400px"></a></br></br>
