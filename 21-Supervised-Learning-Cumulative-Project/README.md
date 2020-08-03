@@ -9,7 +9,7 @@ Twitter Classification Cumulative Project</br>
 <a href="classifying_tweets_location.ipynb">
 scipt.ipynb</a>
 <li>System that predicts whether or not a tweet will go viral by using a K-Nearest Neighbor classifier</li>
-<img src="img/classifying_tweets_location.png" alt="img" width="250px"></br></br>
+<img src="img/classifying_tweets_location.png" alt="img" width="250px"></br></br></br>
 
 <b>Classifying Tweets Viral - K-Nearest Neighbor</b></br>
 <a href="classifying_tweets_viral.ipynb">
