@@ -39,13 +39,13 @@ Linear-Regression</br>
 <a href="Logistic-Regression"> Logistic-Regression</a></br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Logistic-Regression/logistic_regression_project.py"> 
 script.py</a></br>
-<li>Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class</li>
+Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class</br></br>
 
 
 <a href="Decision-Tree">Decision-Tree</a></br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Decision-Tree/decision_tree_project.py">
 script.py</a></br>
-<li>Prediction of income using a random forest</li>
+Prediction of income using a random forest
 
 </div>
 
