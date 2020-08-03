@@ -7,6 +7,8 @@ Data Visualization Capstone Project</p>
 <div style="float:left">
 <a href="Life-Expectancy-and-GDP-Capstone">
 Life-Expectancy-and-GDP-Capstone</br>
+<li>Investigation of correlation between the economic output of a country and the life expectancy of its citizens. </li>
+<li>Analyze, Prepare, and Plot Data</li>
 <img src="Life-Expectancy-and-GDP-Capstone/img/overview_plot.png" alt="img" width="400px">
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="400px" "></a></br></br>
 
