@@ -17,7 +17,7 @@ script.py</a></br>
 <li>Turkey's Range Test, Chi-Squared Test</li></br></br>
 
 
-<b>Hypothesis Testing</b></br>
+<b>Sample Size Determination</b></br>
 <a href="ab_testing.py">
 A/B Testing at Nosh Mish Mosh</br>
 script.py</a></br>
