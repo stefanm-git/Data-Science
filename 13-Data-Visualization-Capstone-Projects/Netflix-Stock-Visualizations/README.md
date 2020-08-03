@@ -1,4 +1,4 @@
-<sub><a href="13-Data-Visualization-Capstone-Projects">13-Data-Visualization-Capstone-Projects</a></sub>
+<sub><a href="https://github.com/stefanm-git/Data-Science/tree/master/13-Data-Visualization-Capstone-Projects">13-Data-Visualization-Capstone-Projects</a></sub>
 
 **Netflix-Stock-Visualizations**
 
