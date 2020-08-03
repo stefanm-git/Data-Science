@@ -20,7 +20,7 @@ This directory contains selected projects from the "Data Science Career Path" of
          
 <a href="18-Data-Analysis-Capstone-Project">
 18-Data-Analysis-Capstone-Project</br>
-<img src="18-Data-Analysis-Capstone-Project/img/muscle_hub_abtest.png.png" alt="img" width="400px" ></a></br></br>
+<img src="18-Data-Analysis-Capstone-Project/img/muscle_hub_abtest.png" alt="img" width="400px" ></a></br></br>
 
 <a href="20-Machine-Learning-Supervised-Learning">
 20-Machine-Learning-Supervised-Learning</br>
