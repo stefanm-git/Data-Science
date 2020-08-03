@@ -1,6 +1,6 @@
 <sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-<b>21-Supervised-Learning-Cumulative-Project</b></br>
+<b>21-Supervised-Learning-Cumulative-Project</b></br></br>
   
 Twitter Classification Cumulative Project</br>
 
@@ -16,7 +16,7 @@ scipt.ipynb</a>
 scipt.ipynb</a>
 <li>System that predicts whether a tweet was sent from New York City, London, or Paris</li>
 <img src="img/classifying_tweets_viral.png" alt="img" width="500px"></br></br></br>
-<img src="img/classifying_tweets_viral_1.png" alt="img" width="230px" ></br></br></
+<img src="img/classifying_tweets_viral_1.png" alt="img" width="400px" ></br></br></
 
 </div>
 
