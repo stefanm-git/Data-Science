@@ -3,9 +3,9 @@ Data Analysis Capstone Projects
 <div style="float:left">
 Biodiversity in National Parks</br>
 <a href="biodiversity_project.py">
-Analyze data about endangered species </br>
-script.py</a>
-<img src="img/biodiversity_project.png" alt="alt text" width="100%">
+Analyze data about endangered species</br>
+script.py</a> </br>
+<img src="img/biodiversity_project.png" alt="alt text" width="80%">
   
 
 MuscleHub A/B Test</br>
