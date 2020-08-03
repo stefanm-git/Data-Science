@@ -25,8 +25,7 @@ Classification-Naive-Bayes</br>
 <a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.py">script.py</a></br>
 <li>Scikit-learn’s Naive Bayes implementation</li>
 <li>Reporting the accuracy of the classifier</li>
-<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.png" alt="img" width="400"></br></br>
-
+<img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Classification-Naive-Bayes/naive_bayes_project.png" alt="img" width="400"></br>
 
 
 <a href="Linear-Regression">
@@ -35,7 +34,6 @@ Linear-Regression</br>
 <li>Given a set of points, find a line that fits the data best</li>
 <li>Predict the future from the trends of the past</li>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="250"></br></br>
-
 
 
 <a href="Logistic-Regression"> Logistic-Regression</a></br>
