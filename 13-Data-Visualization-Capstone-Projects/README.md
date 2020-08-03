@@ -9,7 +9,7 @@ Data Visualization Capstone Project</p>
 Life-Expectancy-and-GDP-Capstone</br></a>
 <li>Investigation of correlation between the economic output of a country and the life expectancy of its citizens. </li>
 <li>Analyze, Prepare, and Plot Data</li>
-<a href="Life-Expectancy-and-GDP-Capstone/global_data_capstone_project.ipynb">script.py</a>
+<a href="Life-Expectancy-and-GDP-Capstone/global_data_capstone_project.ipynb">script.py</a></br>
 <img src="Life-Expectancy-and-GDP-Capstone/img/overview_plot.png" alt="img" width="400px">
 <img src="Life-Expectancy-and-GDP-Capstone/img/GDP_LEABY.png" alt="img" width="400px" "></a></br></br>
 
