@@ -3,7 +3,7 @@
 <b>Data Analysis Capstone Projects</b></br></br>
 
 <div style="float:left">
-Biodiversity in National Parks</br>
+<b>Biodiversity in National Parks</b></br>
 <a href="biodiversity_project.py">
 Analyze data about endangered species</br>
 script.py</a> </br>
