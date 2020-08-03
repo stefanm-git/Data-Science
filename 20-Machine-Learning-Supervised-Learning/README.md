@@ -36,17 +36,18 @@ Linear-Regression</br>
 <li>Predict the future from the trends of the past</li>
 <img src="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Linear-Regression/honey_production.png" alt="img" width="250"></br>
 
-></br></br></br></br></br></br></br></br>
 
 
-[Logistic-Regression](Logistic-Regression)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Logistic-Regression/logistic_regression_project.py)</br>
+<a href="Logistic-Regression"> Logistic-Regression</a></br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Logistic-Regression/logistic_regression_project.py"> 
+script.py</a></br>
+<li>Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class</li>
 
 
-
-[Decision-Tree](Decision-Tree)</br>
-[script.py](https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Decision-Tree/decision_tree_project.py)</br></br></br></br>
-
+<a href="Decision-Tree">Decision-Tree</a></br>
+<a href="https://github.com/stefanm-git/Data-Science/blob/master/20-Machine-Learning-Supervised-Learning/Decision-Tree/decision_tree_project.py">
+script.py</a></br>
+<li>Prediction of income using a random forest</li>
 
 </div>
 
