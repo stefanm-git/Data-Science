@@ -32,14 +32,18 @@ script.py</a>
 <b>Variance and Standard Deviation</b></br>
 <a href="variance_and_standard_deviation_project.py">
 Variance in Weather</br>
-script.py</br>
-</a></br></br>
+script.py</a>
+<li>Find time of the year with best weather to visit an area</li>
+<li>Filter and Manipulate Pandas DataFrame</li>
+</br></br>
 
 <b>Mean, Meadian, and Mode</b></br>
 <a href="mean_median_mode_project.py">
 Central Tendency for Housing Data</br>
-script.py</br>
-</a></br></br>
+script.py</a>
+<li>Find the mean, median, and mode cost of one-bedroom apartments in three of the five New York City boroughs: Brooklyn, Manhattan, and Queens</li>
+<li>Conclusions about the cost of living in each of the boroughs.</li>
+</br></br>
 
 
 
