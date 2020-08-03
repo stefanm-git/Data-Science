@@ -13,7 +13,7 @@ script.py</a>
 <li>Aggregated Bar Charts</li>
 <li>Box Plots</li>
 <li>Violin Plots</li>
-<img src="img/Visualizing_Kiva_Data_with_Seaborn.png" alt="img" width="30%"></a></br>
+<img src="img/Visualizing_Kiva_Data_with_Seaborn.png" alt="img" width="60%"></a></br>
 
 </div>
 
