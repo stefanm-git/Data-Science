@@ -1,7 +1,7 @@
 <p>21. Supervised Machine Learning Cumulative Project</br>
 Twitter Classification Cumulative Project</p>
 
-<div style="float:left"
+<div style="float:left">
 **Classifying Tweets Location - Naive Bayes**</br>
 <a href="classifying_tweets_location.ipynb">
 scipt.ipynb</a>
