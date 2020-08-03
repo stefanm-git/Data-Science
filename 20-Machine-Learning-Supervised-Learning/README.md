@@ -1,6 +1,6 @@
 <sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-<b>20-Machine-Learning-Supervised-Learning</b></br>
+<b>20-Machine-Learning-Supervised-Learning</b></br></br>
 
 <div style="float: left">
 <a href="Yelp-Regression-Project">
