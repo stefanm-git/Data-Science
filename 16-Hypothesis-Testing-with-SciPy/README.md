@@ -6,13 +6,13 @@
 <b>Hypothesis Testing</b></br>
 <a href="study_in_data_analysis.py">
 Familiar: A Study In Data Analysis</br>
-script.py</a></br></br>
+script.py</a></br>
 <li>1-Sample T-Test, 2-Sample T-Test, P-value Significance Test</li>
 <li>Chi-Squared Test</li></br>
 
 <a href="fetchmaker.py">
 FetchMaker</br>
-script.py</a></br></br>
+script.py</a></br>
 <li>Binomal Test, ANOVA</li>
 <li>Turkey's Range Test, Chi-Squared Test</li></br></br>
 
