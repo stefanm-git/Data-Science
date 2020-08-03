@@ -1,6 +1,6 @@
 <sub><a href="https://github.com/stefanm-git/Data-Science">Data-Science</a></sub>
 
-<b>21-Supervised-Learning-Cumulative-Project>/b>
+<b>21-Supervised-Learning-Cumulative-Project</b>
   
 <b>Twitter Classification Cumulative Project</b>
 
