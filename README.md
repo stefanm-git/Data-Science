@@ -14,12 +14,12 @@ This directory contains selected projects from the "Data Science Career Path" of
 14-Learn-Statistics-with-Python</br>
 <img src="14-Learn-Statistics-with-Python/img/boxplots.png" alt="img" width="550px"></a></br></br>
 
-<a href="14-Learn-Statistics-with-Python">
-14-Learn-Statistics-with-Python</br>
+<a href="16-Hypothesis-Testing-with-SciPy">
+16-Hypothesis-Testing-with-SciPy</br>
 </br></br>
          
-<a href="16-Hypothesis-Testing-with-SciPy">
-Hypothesis-Testing-with-SciPy</br>
+<a href="14-Learn-Statistics-with-Python">
+14-Learn-Statistics-with-Python</br>
 <img src="18-Data-Analysis-Capstone-Project/img/biodiversity_project.png" alt="img" width="280px" ></a></br></br>
 
 <a href="20-Machine-Learning-Supervised-Learning">
