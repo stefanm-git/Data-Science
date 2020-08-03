@@ -10,7 +10,7 @@ scipt.ipynb</a>
 
 **Classifying Tweets Viral - K-Nearest Neighbor**</br>
 <a href="classifying_tweets_viral.ipynb">
-scipt.ipynb</a></br>
+scipt.ipynb</a>
 <li>System that predicts whether a tweet was sent from New York City, London, or Paris</li>
 <img src="img/classifying_tweets_viral.png" alt="img" width="500px"></br></br></br>
 <img src="img/classifying_tweets_viral_1.png" alt="img" width="230px" ></br></br></
